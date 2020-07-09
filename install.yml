@@ -10,6 +10,9 @@ requirements:
       - rfun
       - tethysplatform
     packages:
+      - geomatics>=0.10
+      - netcdf4
+      - numpy
 
   pip:
 
